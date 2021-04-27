@@ -1,0 +1,16 @@
+/*
+ * @description 公共布局
+ */
+export { default as RemixIcon } from "./RemixIcon"
+export { default as VabPermissions } from "./Permissions"
+export { default as Logo } from "./Logo"
+export { default as Avatar } from "./Avatar"
+export { default as AppMain } from "./AppMain"
+export { default as TagsBar } from "./TagsBar"
+export { default as SideBar } from "./SideBar"
+export { default as Breadcrumb } from "./Breadcrumb"
+export { default as FullScreenBar } from "./FullScreenBar"
+export { default as ErrorLog } from "./ErrorLog"
+export { default as ThemeBar } from "./ThemeBar"
+export { default as TopBar } from "./TopBar"
+export { default as NavBar } from "./NavBar"
